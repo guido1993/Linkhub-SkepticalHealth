@@ -2,7 +2,7 @@
 
 Welcome to the repository for [Skeptical Health](https://skeptical.health/), a platform designed to explore critical health topics in depth. Our mission is to provide health professionals and curious minds with reliable, nuanced, and skeptical perspectives on health and wellness.
 
-This repository is based on the [Linkhub](https://github.com/hugo-failure/linkhub) template, an elegant and efficient way to create modern link pages and small web projects.
+This repository is based on the [Linkhub](https://github.com/digitalmalayali/Linkhub) template, an elegant and efficient way to create modern link pages and small web projects.
 
 ---
 
@@ -38,7 +38,7 @@ npm run dev
 
 🌐 Website
 
-Visit the live website here: https://skeptical.health/.
+Visit the live website here: https://skeptical.health
 
 🛠️ Based On
 
