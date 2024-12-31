@@ -1,19 +1,24 @@
-Skeptical Health
+# Skeptical Health
 
-Welcome to the repository for Skeptical Health, a platform designed to explore critical health topics in depth. Our mission is to provide health professionals and curious minds with reliable, nuanced, and skeptical perspectives on health and wellness.
+Welcome to the repository for [Skeptical Health](https://skeptical.health/), a platform designed to explore critical health topics in depth. Our mission is to provide health professionals and curious minds with reliable, nuanced, and skeptical perspectives on health and wellness.
 
-This repository is based on the Linkhub template, an elegant and efficient way to create modern link pages and small web projects.
+This repository is based on the [Linkhub](https://github.com/hugo-failure/linkhub) template, an elegant and efficient way to create modern link pages and small web projects.
 
-🌟 Features
-	•	Customizable and lightweight: Built on the Linkhub template for a streamlined and modern design.
-	•	Responsive design: Fully optimized for desktop, tablet, and mobile devices.
-	•	Easy-to-update content: Content is managed through a simple file structure for easy maintenance.
+---
 
-🚀 Quick Start
-	1.	Clone the repository:
+## 🌟 Features
 
-git clone https://github.com/YOUR_USERNAME/skeptical-health.git
+- **Customizable and lightweight**: Built on the Linkhub template for a streamlined and modern design.
+- **Responsive design**: Fully optimized for desktop, tablet, and mobile devices.
+- **Easy-to-update content**: Content is managed through a simple file structure for easy maintenance.
 
+---
+
+## 🚀 Quick Start
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/skeptical-health.git
 
 	2.	Navigate into the project folder:
 
@@ -46,5 +51,3 @@ This repository is licensed under the MIT License. Please see the license file f
 📧 Contact
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out via the contact form on Skeptical Health.
-
-Let me know if you’d like to tweak anything further!
