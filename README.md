@@ -1,5 +1,3 @@
-Here’s a simple and effective README for your GitHub repository:
-
 Skeptical Health
 
 Welcome to the repository for Skeptical Health, a platform designed to explore critical health topics in depth. Our mission is to provide health professionals and curious minds with reliable, nuanced, and skeptical perspectives on health and wellness.
